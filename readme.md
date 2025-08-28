@@ -523,37 +523,7 @@ _Cape Girardeau, MO • May 2025_
 </tr>
 </table>
 
-<!-- Activity Graph -->
-<div align="center">
 
-## 📈 **DEVELOPMENT ACTIVITY MATRIX**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saichandravanama&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
-
-</div>
-
-<!-- Current Stats -->
-<div align="center">
-
-## 📊 **CURRENT GITHUB STATISTICS**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saichandravanama&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
-</td>
-<td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saichandravanama&theme=tokyonight&hide_border=true" width="400"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandravanama&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="600"/>
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- Footer -->
 <div align="center">
