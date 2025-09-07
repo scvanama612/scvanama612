@@ -202,7 +202,7 @@ print(f"Status: {achievement_matrix['performance_optimization']['dashboard_refre
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **JUNIOR DATA SCIENTIST**
+### 🚀 **Jr.Data Science Enginner**
 
 **`VMware • Jan 2025 – Present`**
 
