@@ -549,7 +549,7 @@ _Cape Girardeau, MO • May 2025_
 <br/>
 
 > **"Data is the new oil, but analytics is the refinery that creates value."**  
-> _— Junior Data Scientist • ML Engineer • Analytics Expert —_
+> _— Jr. Data Science Engineer • ML Engineer • Analytics Expert —_
 
 <br/>
 
