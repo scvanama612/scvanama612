@@ -19,7 +19,7 @@
 ```bash
 ┌─[sai@vmware-labs]─[~/projects/data-science]
 └──╼ $ whoami
-Junior Data Scientist • ML Engineer • Analytics Expert | Southeast Missouri State University
+Jr. Data Science Engineer • ML Engineer • Analytics Expert | Southeast Missouri State University
 
 ┌─[sai@vmware-labs]─[~/achievements]
 └──╼ $ ls -la
